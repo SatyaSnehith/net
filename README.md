@@ -4,13 +4,12 @@
  - POSIX threads
  - Unix sockets
 
-## Execute server
+## Compile and Execute
+### server
 ```
 ./c.sh server
 ```
-
----
-## Execute client
+### client
 ```
 ./c.sh client
 ```
