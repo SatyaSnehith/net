@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "un.h": "c",
+        "socket.h": "c",
+        "in.h": "c",
+        "inet.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "string.h": "c",
+        "complex": "c",
+        "handle_socket.h": "c",
+        "stdatomic.h": "c"
+    }
+}
